@@ -130,13 +130,10 @@ export const websiteConfig = {
   // 背景图片配置
   background: {
     images: [
-      "/backgrounds/desktopWallpaper_1.webp",
-      "/backgrounds/desktopWallpaper_2.webp",
-      "/backgrounds/desktopWallpaper_3.webp",
-      "/backgrounds/desktopWallpaper_4.webp",
-      "/backgrounds/desktopWallpaper_5.webp",
-      "/backgrounds/desktopWallpaper_6.webp",
-      "/backgrounds/desktopWallpaper_7.webp",
+      "https://img.aokaoka.top/i/2026/06/27/756977.png",
+      "https://img.aokaoka.top/i/2026/06/27/253531.png",
+      "https://img.aokaoka.top/i/2026/06/27/089194.png",
+      "https://img.aokaoka.top/i/2026/06/27/428785.png",
     ],
     defaultImage: "/backgrounds/default.webp"
   },
