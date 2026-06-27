@@ -140,7 +140,7 @@ export const websiteConfig = {
 
   // 音乐播放器配置
   musicPlayer: {
-    enabled: true,
+    enabled: false,
     metingApi: "https://api.injahow.cn/meting/",
     server: "tencent", // netease, kugou
     type: "playlist",   // playlist, song
