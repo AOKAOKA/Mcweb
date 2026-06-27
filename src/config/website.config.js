@@ -413,7 +413,7 @@ export const websiteConfig = {
       description: "我们的服务器大家庭",
       
       // 数据获取方式："manual" 或 "localFile"
-      dataSource: "manual",
+      dataSource: "localFile",
       
       // 本地文件配置（当dataSource为"localFile"时生效）
       localFile: {
@@ -423,11 +423,12 @@ export const websiteConfig = {
       
       // 手动成员列表（当dataSource为"manual"时,或未获取到数据时生效）
       manualList: [
-        "EpiphanyEX",
-        "Bu_XiAo_Le",
-        "BIG_windows",
-        "XiaoHongya",
-        "lanbaicai01"
+        "AOKAOKA",
+        "QingYu_GeGe",
+        "qwtw1",
+        "Dler_xiaoxu",
+        "xiaoqi666",
+        "Rjyueshan"
       ]
     }
   },
