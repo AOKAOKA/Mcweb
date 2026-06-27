@@ -5,7 +5,7 @@ export const websiteConfig = {
     title: "笙竹小镇",
     description: "欢迎来到笙竹小镇，休闲氛围，让你轻松游戏无压力。",
     keywords: "Minecraft,服务器,我的世界,Java版,生存,生电,整合包",
-    author: "笙竹小镇",
+    author: "奥梁",
     language: "zh-CN"
   },
 
@@ -61,7 +61,7 @@ export const websiteConfig = {
         name: "历程",
         path: "/history",
         icon: "mdi-history",
-        enabled: true,
+        enabled: false,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
         externalUrl: "", // 外链地址（仅在external为true时生效）
@@ -82,7 +82,7 @@ export const websiteConfig = {
         name: "排行榜",
         path: "/leaderboard",
         icon: "mdi-trophy",
-        enabled: true,
+        enabled: false,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
         externalUrl: "", // 外链地址（仅在external为true时生效）
