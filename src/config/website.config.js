@@ -194,9 +194,9 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "szxz.us.kg",
+    displayAddress: "szxz.top",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "mc.szxz.us.kg",
+    apiAddress: "mc.szxz.top",
     port: "22222",
     version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
@@ -401,7 +401,7 @@ export const websiteConfig = {
           icon: "email",
           buttonText: "发送邮件",
           buttonType: "secondary",
-          url: "mailto:email@szxz.us.kg"
+          url: "mailto:aokaoka@qq.com"
         }
       ]
     },
