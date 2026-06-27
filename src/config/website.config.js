@@ -2,10 +2,10 @@
 export const websiteConfig = {
   // 网站基本信息
   site: {
-    title: "晚晚服",
-    description: "欢迎来到晚晚服，探索无限可能的方块世界！",
-    keywords: "Minecraft,服务器,我的世界,Java版,生存,创造,生电",
-    author: "晚晚服",
+    title: "笙竹小镇",
+    description: "欢迎来到笙竹小镇，休闲氛围，让你轻松游戏无压力。",
+    keywords: "Minecraft,服务器,我的世界,Java版,生存,生电,整合包",
+    author: "笙竹小镇",
     language: "zh-CN"
   },
 
@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 晚晚服", "Welcome to DuskCraft"], // 多语言标题数组
+            texts: ["欢迎来到 笙竹小镇", "Welcome to SZXZ"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -33,7 +33,7 @@ export const websiteConfig = {
             }
           },
           // 副标题配置
-          subtitle: "探索无限可能的方块世界，与朋友一起创造属于你们的冒险故事"
+          subtitle: "随时与伙伴畅玩。玩家活跃，热闹非凡，一起创造精彩回忆"
         }
       },
       {
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["晚晚服服历程", "DCS History"],
+            texts: ["笙竹小镇服历程", "SZXZ History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -109,7 +109,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["关于服务器", "About DCServer"],
+            texts: ["关于服务器", "About SZXZerver"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -145,9 +145,9 @@ export const websiteConfig = {
   musicPlayer: {
     enabled: true,
     metingApi: "https://api.injahow.cn/meting/",
-    server: "netease", // netease, kugou
+    server: "tencent", // netease, kugou
     type: "playlist",   // playlist, song
-    id: "5186526688",      // 歌单ID
+    id: "9320812051",      // 歌单ID
     autoPlay: false,
     volume: 0.8
   },
@@ -197,20 +197,19 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "w-6.cc",
+    displayAddress: "szxz.us.kg",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "ipv4.w-6.cc",
-    port: "25565",
-    version: "1.21.4",
+    apiAddress: "mc.szxz.us.kg",
+    port: "22222",
+    version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
   // 页脚配置
   footer: {
-    copyright: "© 2022-2026 晚晚服保留所有权利.",
+    copyright: "© 2023-2026 笙竹小镇保留所有权利.",
     customHtml: `
       <!-- 在这里插入自定义HTML代码，比如备案信息 -->
-      <div style='display: flex; justify-content: center; align-items: center; width: 100%;'><a target='_blank' href='https://beian.miit.gov.cn/'><img src='/foot/foot-icp.svg' style='display: block;'></a></div>
     `
   },
 
@@ -330,10 +329,10 @@ export const websiteConfig = {
         icon: "information",
         items: [
           { label: "服务器类别", value: "物理机" },
-          { label: "CPU", value: "i9-13900kf" },
-          { label: "内存", value: "128GB DDR5" },  
+          { label: "CPU", value: "8259CL" },
+          { label: "内存", value: "16GB DDR4" },  
           { label: "类型", value: "生存，生电，建筑" },
-          { label: "最大玩家", value: "100人" },
+          { label: "最大玩家", value: "36人" },
           { label: "在线时间", value: "7X24小时" }
         ]
       },
@@ -345,10 +344,7 @@ export const websiteConfig = {
         icon: "cog",
         items: [
           { label: "IPV4网络", value: "✓" },
-          { label: "IPV6网络", value: "✓" },
-          { label: "镜像服务器", value: "✓" },
           { label: "双重备份", value: "✓" },
-          { label: "群服互通", value: "✓" },
           { label: "联机工具提供", value: "✓" }
         ]
       },
@@ -359,9 +355,7 @@ export const websiteConfig = {
         title: "管理团队",
         icon: "shield-account",
         items: [
-          { label: "_YUTONG_", value: "腐竹-物理服主！" },
-          { label: "wanwan_jiean", value: "腐竹-技术和主要管理" },
-          { label: "CrazyPastor", value: "腐竹-不务正业" }
+          { label: "AOKAOKA", value: "腐竹-技术和主要管理！" }
         ]
       }
     },
@@ -402,7 +396,7 @@ export const websiteConfig = {
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
-          url: "https://qm.qq.com/q/mVvrLcbLvU"
+          url: "https://qm.qq.com/q/ClpwQmC72S"
         },
         {
           title: "邮箱",
@@ -410,7 +404,7 @@ export const websiteConfig = {
           icon: "email",
           buttonText: "发送邮件",
           buttonType: "secondary",
-          url: "mailto:me@wanfory.top"
+          url: "mailto:email@szxz.us.kg"
         }
       ]
     },
@@ -422,7 +416,7 @@ export const websiteConfig = {
       description: "我们的服务器大家庭",
       
       // 数据获取方式："manual" 或 "localFile"
-      dataSource: "localFile",
+      dataSource: "manual",
       
       // 本地文件配置（当dataSource为"localFile"时生效）
       localFile: {
