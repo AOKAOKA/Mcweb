@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-06-28 06:38:57",
+  "export_time": "2026-06-28 09:39:02",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -44,14 +44,23 @@
     },
     "fzsd.module.scoreboard.display.damage_taken": {
       "display_slot": "sidebar.team.yellow",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "Arrantball",
+          "score": 2
+        },
+        {
+          "player": "总受伤害数",
+          "score": 2
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 4,
+        "average_score": 2.0,
+        "top_player": "Arrantball",
+        "top_score": 2
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -82,14 +91,23 @@
     },
     "fzsd.module.scoreboard.display.dig_count": {
       "display_slot": "sidebar.team.gray",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "Arrantball",
+          "score": 59
+        },
+        {
+          "player": "总挖掘数",
+          "score": 59
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 118,
+        "average_score": 59.0,
+        "top_player": "Arrantball",
+        "top_score": 59
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -120,14 +138,23 @@
     },
     "fzsd.module.scoreboard.display.kill_count": {
       "display_slot": "sidebar.team.red",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "Arrantball",
+          "score": 1
+        },
+        {
+          "player": "总击杀数",
+          "score": 1
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 2,
+        "average_score": 1.0,
+        "top_player": "Arrantball",
+        "top_score": 1
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -139,14 +166,23 @@
     },
     "fzsd.module.scoreboard.display.placement_count": {
       "display_slot": "sidebar.team.dark_blue",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "Arrantball",
+          "score": 14
+        },
+        {
+          "player": "总建造数",
+          "score": 14
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 28,
+        "average_score": 14.0,
+        "top_player": "Arrantball",
+        "top_score": 14
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
@@ -177,7 +213,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 0,
+    "total_players_across_objectives": 8,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
