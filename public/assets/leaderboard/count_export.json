@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-06-29 09:39:35",
+  "export_time": "2026-06-29 12:39:40",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 6
+          "score": 9
         },
         {
           "player": "Yuki052",
-          "score": 3
+          "score": 5
         },
         {
           "player": "Dler_xiaoxu",
@@ -22,15 +22,15 @@
         },
         {
           "player": "Hentai",
-          "score": 1
+          "score": 2
         }
       ],
       "statistics": {
         "total_players": 4,
-        "total_score": 12,
-        "average_score": 3.0,
+        "total_score": 18,
+        "average_score": 4.5,
         "top_player": "总活跃时间",
-        "top_score": 6
+        "top_score": 9
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.activation",
@@ -65,15 +65,15 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 398
+          "score": 461
         },
         {
           "player": "Yuki052",
-          "score": 156
+          "score": 173
         },
         {
           "player": "Hentai",
-          "score": 102
+          "score": 148
         },
         {
           "player": "Dler_xiaoxu",
@@ -94,10 +94,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 796,
-        "average_score": 113.71,
+        "total_score": 922,
+        "average_score": 131.71,
         "top_player": "总受伤害数",
-        "top_score": 398
+        "top_score": 461
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -113,11 +113,11 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 6
+          "score": 7
         },
         {
           "player": "Hentai",
-          "score": 3
+          "score": 4
         },
         {
           "player": "Yuki052",
@@ -130,10 +130,10 @@
       ],
       "statistics": {
         "total_players": 4,
-        "total_score": 12,
-        "average_score": 3.0,
+        "total_score": 14,
+        "average_score": 3.5,
         "top_player": "总死亡数",
-        "top_score": 6
+        "top_score": 7
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.death_count",
@@ -149,11 +149,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 2639
+          "score": 3873
         },
         {
           "player": "Yuki052",
-          "score": 1457
+          "score": 1722
         },
         {
           "player": "Dler_xiaoxu",
@@ -161,23 +161,23 @@
         },
         {
           "player": "Hentai",
-          "score": 106
+          "score": 823
+        },
+        {
+          "player": "Arrantball",
+          "score": 311
         },
         {
           "player": "QingYu_GeGe",
           "score": 93
-        },
-        {
-          "player": "Arrantball",
-          "score": 59
         }
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 5278,
-        "average_score": 879.67,
+        "total_score": 7746,
+        "average_score": 1291.0,
         "top_player": "总挖掘数",
-        "top_score": 2639
+        "top_score": 3873
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -212,7 +212,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 135
+          "score": 149
         },
         {
           "player": "Dler_xiaoxu",
@@ -220,15 +220,15 @@
         },
         {
           "player": "Yuki052",
-          "score": 45
+          "score": 48
+        },
+        {
+          "player": "Hentai",
+          "score": 26
         },
         {
           "player": "QingYu_GeGe",
           "score": 19
-        },
-        {
-          "player": "Hentai",
-          "score": 15
         },
         {
           "player": "Arrantball",
@@ -237,10 +237,10 @@
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 270,
-        "average_score": 45.0,
+        "total_score": 298,
+        "average_score": 49.67,
         "top_player": "总击杀数",
-        "top_score": 135
+        "top_score": 149
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -256,11 +256,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 6052
+          "score": 6673
         },
         {
           "player": "Yuki052",
-          "score": 5571
+          "score": 6007
         },
         {
           "player": "Dler_xiaoxu",
@@ -268,7 +268,7 @@
         },
         {
           "player": "Hentai",
-          "score": 44
+          "score": 226
         },
         {
           "player": "QingYu_GeGe",
@@ -276,7 +276,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 14
+          "score": 17
         },
         {
           "player": "XuanMBN",
@@ -285,10 +285,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 12104,
-        "average_score": 1729.14,
+        "total_score": 13346,
+        "average_score": 1906.57,
         "top_player": "总建造数",
-        "top_score": 6052
+        "top_score": 6673
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
@@ -304,19 +304,19 @@
       "player_scores": [
         {
           "player": "总交易数",
-          "score": 473
+          "score": 653
         },
         {
           "player": "Yuki052",
-          "score": 473
+          "score": 653
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 946,
-        "average_score": 473.0,
+        "total_score": 1306,
+        "average_score": 653.0,
         "top_player": "总交易数",
-        "top_score": 473
+        "top_score": 653
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.trade_count",
