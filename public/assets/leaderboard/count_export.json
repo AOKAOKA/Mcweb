@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-06-30 12:40:16",
+  "export_time": "2026-06-30 15:40:21",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 22
+          "score": 24
         },
         {
           "player": "Yuki052",
-          "score": 11
+          "score": 13
         },
         {
           "player": "Hentai",
@@ -35,10 +35,10 @@
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 44,
-        "average_score": 7.33,
+        "total_score": 48,
+        "average_score": 8.0,
         "top_player": "总活跃时间",
-        "top_score": 22
+        "top_score": 24
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.activation",
@@ -73,11 +73,11 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 1860
+          "score": 2422
         },
         {
           "player": "Yuki052",
-          "score": 1002
+          "score": 1564
         },
         {
           "player": "Hentai",
@@ -106,10 +106,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 3720,
-        "average_score": 465.0,
+        "total_score": 4844,
+        "average_score": 605.5,
         "top_player": "总受伤害数",
-        "top_score": 1860
+        "top_score": 2422
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -125,11 +125,11 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 31
+          "score": 34
         },
         {
           "player": "Yuki052",
-          "score": 12
+          "score": 15
         },
         {
           "player": "AOKAOKA",
@@ -150,10 +150,10 @@
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 62,
-        "average_score": 10.33,
+        "total_score": 68,
+        "average_score": 11.33,
         "top_player": "总死亡数",
-        "top_score": 31
+        "top_score": 34
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.death_count",
@@ -169,11 +169,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 7364
+          "score": 7626
         },
         {
           "player": "Yuki052",
-          "score": 2909
+          "score": 3171
         },
         {
           "player": "Hentai",
@@ -198,10 +198,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 14728,
-        "average_score": 2104.0,
+        "total_score": 15252,
+        "average_score": 2178.86,
         "top_player": "总挖掘数",
-        "top_score": 7364
+        "top_score": 7626
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -236,11 +236,11 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 260
+          "score": 316
         },
         {
           "player": "Yuki052",
-          "score": 98
+          "score": 154
         },
         {
           "player": "Dler_xiaoxu",
@@ -265,10 +265,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 520,
-        "average_score": 74.29,
+        "total_score": 632,
+        "average_score": 90.29,
         "top_player": "总击杀数",
-        "top_score": 260
+        "top_score": 316
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -284,11 +284,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 8976
+          "score": 9618
         },
         {
           "player": "Yuki052",
-          "score": 7559
+          "score": 8201
         },
         {
           "player": "Hentai",
@@ -317,10 +317,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 17952,
-        "average_score": 2244.0,
+        "total_score": 19236,
+        "average_score": 2404.5,
         "top_player": "总建造数",
-        "top_score": 8976
+        "top_score": 9618
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
@@ -336,19 +336,19 @@
       "player_scores": [
         {
           "player": "总交易数",
-          "score": 1098
+          "score": 1394
         },
         {
           "player": "Yuki052",
-          "score": 1098
+          "score": 1394
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 2196,
-        "average_score": 1098.0,
+        "total_score": 2788,
+        "average_score": 1394.0,
         "top_player": "总交易数",
-        "top_score": 1098
+        "top_score": 1394
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.trade_count",
