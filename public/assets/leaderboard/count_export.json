@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-06-30 18:40:25",
+  "export_time": "2026-06-30 21:40:30",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -73,11 +73,11 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 2422
+          "score": 2452
         },
         {
           "player": "Yuki052",
-          "score": 1564
+          "score": 1580
         },
         {
           "player": "Hentai",
@@ -89,7 +89,7 @@
         },
         {
           "player": "Dler_xiaoxu",
-          "score": 119
+          "score": 133
         },
         {
           "player": "Arrantball",
@@ -106,10 +106,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 4844,
-        "average_score": 605.5,
+        "total_score": 4904,
+        "average_score": 613.0,
         "top_player": "总受伤害数",
-        "top_score": 2422
+        "top_score": 2452
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -169,11 +169,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 7626
+          "score": 7654
         },
         {
           "player": "Yuki052",
-          "score": 3171
+          "score": 3199
         },
         {
           "player": "Hentai",
@@ -198,10 +198,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 15252,
-        "average_score": 2178.86,
+        "total_score": 15308,
+        "average_score": 2186.86,
         "top_player": "总挖掘数",
-        "top_score": 7626
+        "top_score": 7654
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -236,7 +236,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 316
+          "score": 319
         },
         {
           "player": "Yuki052",
@@ -244,7 +244,7 @@
         },
         {
           "player": "Dler_xiaoxu",
-          "score": 62
+          "score": 65
         },
         {
           "player": "Hentai",
@@ -265,10 +265,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 632,
-        "average_score": 90.29,
+        "total_score": 638,
+        "average_score": 91.14,
         "top_player": "总击杀数",
-        "top_score": 316
+        "top_score": 319
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -284,11 +284,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 9618
+          "score": 9620
         },
         {
           "player": "Yuki052",
-          "score": 8201
+          "score": 8203
         },
         {
           "player": "Hentai",
@@ -317,10 +317,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 19236,
-        "average_score": 2404.5,
+        "total_score": 19240,
+        "average_score": 2405.0,
         "top_player": "总建造数",
-        "top_score": 9618
+        "top_score": 9620
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
