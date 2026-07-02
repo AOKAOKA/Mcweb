@@ -61,7 +61,7 @@ export const websiteConfig = {
         name: "皮肤站",
         path: "/history",
         icon: "mdi-history",
-        enabled: false,
+        enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: true, // 是否启用外链模式
         externalUrl: "https://szxz.top/", // 外链地址（仅在external为true时生效）
