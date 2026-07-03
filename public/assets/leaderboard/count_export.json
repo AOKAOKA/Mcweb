@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-03 12:42:04",
+  "export_time": "2026-07-03 15:42:09",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -82,11 +82,11 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 3382
+          "score": 3402
         },
         {
           "player": "Yuki052",
-          "score": 2104
+          "score": 2124
         },
         {
           "player": "Hentai",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 6764,
-        "average_score": 845.5,
+        "total_score": 6804,
+        "average_score": 850.5,
         "top_player": "总受伤害数",
-        "top_score": 3382
+        "top_score": 3402
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -182,11 +182,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 10918
+          "score": 10922
         },
         {
           "player": "Yuki052",
-          "score": 5726
+          "score": 5730
         },
         {
           "player": "Hentai",
@@ -211,10 +211,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 21836,
-        "average_score": 3119.43,
+        "total_score": 21844,
+        "average_score": 3120.57,
         "top_player": "总挖掘数",
-        "top_score": 10918
+        "top_score": 10922
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -297,11 +297,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 11192
+          "score": 11207
         },
         {
           "player": "Yuki052",
-          "score": 9295
+          "score": 9310
         },
         {
           "player": "Hentai",
@@ -330,10 +330,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 22384,
-        "average_score": 2798.0,
+        "total_score": 22414,
+        "average_score": 2801.75,
         "top_player": "总建造数",
-        "top_score": 11192
+        "top_score": 11207
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
