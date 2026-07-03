@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-03 21:42:18",
+  "export_time": "2026-07-04 00:42:22",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -182,7 +182,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 10922
+          "score": 10923
         },
         {
           "player": "Yuki052",
@@ -194,7 +194,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 1239
+          "score": 1240
         },
         {
           "player": "Dler_xiaoxu",
@@ -211,10 +211,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 21844,
-        "average_score": 3120.57,
+        "total_score": 21846,
+        "average_score": 3120.86,
         "top_player": "总挖掘数",
-        "top_score": 10922
+        "top_score": 10923
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -249,7 +249,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 478
+          "score": 482
         },
         {
           "player": "Yuki052",
@@ -273,15 +273,15 @@
         },
         {
           "player": "Arrantball",
-          "score": 10
+          "score": 14
         }
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 956,
-        "average_score": 136.57,
+        "total_score": 964,
+        "average_score": 137.71,
         "top_player": "总击杀数",
-        "top_score": 478
+        "top_score": 482
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -297,7 +297,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 11207
+          "score": 11210
         },
         {
           "player": "Yuki052",
@@ -309,7 +309,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 434
+          "score": 437
         },
         {
           "player": "Dler_xiaoxu",
@@ -330,10 +330,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 22414,
-        "average_score": 2801.75,
+        "total_score": 22420,
+        "average_score": 2802.5,
         "top_player": "总建造数",
-        "top_score": 11207
+        "top_score": 11210
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
