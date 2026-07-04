@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-04 12:42:39",
+  "export_time": "2026-07-04 15:42:44",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 34
+          "score": 36
         },
         {
           "player": "Yuki052",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 4
+          "score": 6
         },
         {
           "player": "Dler_xiaoxu",
@@ -35,10 +35,10 @@
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 68,
-        "average_score": 11.33,
+        "total_score": 72,
+        "average_score": 12.0,
         "top_player": "总活跃时间",
-        "top_score": 34
+        "top_score": 36
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.activation",
@@ -82,7 +82,7 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 3402
+          "score": 3429
         },
         {
           "player": "Yuki052",
@@ -102,7 +102,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 55
+          "score": 82
         },
         {
           "player": "XuanMBN",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 6804,
-        "average_score": 850.5,
+        "total_score": 6858,
+        "average_score": 857.25,
         "top_player": "总受伤害数",
-        "top_score": 3402
+        "top_score": 3429
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -134,7 +134,7 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 47
+          "score": 48
         },
         {
           "player": "Yuki052",
@@ -150,7 +150,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 1
+          "score": 2
         },
         {
           "player": "Dler_xiaoxu",
@@ -163,10 +163,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 94,
-        "average_score": 13.43,
+        "total_score": 96,
+        "average_score": 13.71,
         "top_player": "总死亡数",
-        "top_score": 47
+        "top_score": 48
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.death_count",
@@ -182,7 +182,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 10923
+          "score": 11591
         },
         {
           "player": "Yuki052",
@@ -194,7 +194,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 1240
+          "score": 1908
         },
         {
           "player": "Dler_xiaoxu",
@@ -211,10 +211,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 21846,
-        "average_score": 3120.86,
+        "total_score": 23182,
+        "average_score": 3311.71,
         "top_player": "总挖掘数",
-        "top_score": 10923
+        "top_score": 11591
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -249,7 +249,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 482
+          "score": 501
         },
         {
           "player": "Yuki052",
@@ -264,24 +264,24 @@
           "score": 65
         },
         {
+          "player": "Arrantball",
+          "score": 33
+        },
+        {
           "player": "AOKAOKA",
           "score": 31
         },
         {
           "player": "QingYu_GeGe",
           "score": 19
-        },
-        {
-          "player": "Arrantball",
-          "score": 14
         }
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 964,
-        "average_score": 137.71,
+        "total_score": 1002,
+        "average_score": 143.14,
         "top_player": "总击杀数",
-        "top_score": 482
+        "top_score": 501
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.kill_count",
@@ -297,7 +297,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 11210
+          "score": 11684
         },
         {
           "player": "Yuki052",
@@ -309,7 +309,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 437
+          "score": 911
         },
         {
           "player": "Dler_xiaoxu",
@@ -330,10 +330,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 22420,
-        "average_score": 2802.5,
+        "total_score": 23368,
+        "average_score": 2921.0,
         "top_player": "总建造数",
-        "top_score": 11210
+        "top_score": 11684
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
