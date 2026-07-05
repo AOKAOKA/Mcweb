@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-05 18:43:24",
+  "export_time": "2026-07-05 21:43:29",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 36
+          "score": 37
         },
         {
           "player": "Yuki052",
@@ -22,7 +22,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 6
+          "score": 7
         },
         {
           "player": "Dler_xiaoxu",
@@ -35,10 +35,10 @@
       ],
       "statistics": {
         "total_players": 6,
-        "total_score": 72,
-        "average_score": 12.0,
+        "total_score": 74,
+        "average_score": 12.33,
         "top_player": "总活跃时间",
-        "top_score": 36
+        "top_score": 37
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.activation",
@@ -82,7 +82,7 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 3429
+          "score": 3449
         },
         {
           "player": "Yuki052",
@@ -102,7 +102,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 82
+          "score": 102
         },
         {
           "player": "XuanMBN",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 6858,
-        "average_score": 857.25,
+        "total_score": 6898,
+        "average_score": 862.25,
         "top_player": "总受伤害数",
-        "top_score": 3429
+        "top_score": 3449
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.damage_taken",
@@ -134,7 +134,7 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 48
+          "score": 49
         },
         {
           "player": "Yuki052",
@@ -150,7 +150,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 2
+          "score": 3
         },
         {
           "player": "Dler_xiaoxu",
@@ -163,10 +163,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 96,
-        "average_score": 13.71,
+        "total_score": 98,
+        "average_score": 14.0,
         "top_player": "总死亡数",
-        "top_score": 48
+        "top_score": 49
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.death_count",
@@ -182,7 +182,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 11591
+          "score": 11954
         },
         {
           "player": "Yuki052",
@@ -194,7 +194,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 1908
+          "score": 2271
         },
         {
           "player": "Dler_xiaoxu",
@@ -211,10 +211,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 23182,
-        "average_score": 3311.71,
+        "total_score": 23908,
+        "average_score": 3415.43,
         "top_player": "总挖掘数",
-        "top_score": 11591
+        "top_score": 11954
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.dig_count",
@@ -297,19 +297,19 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 11684
+          "score": 11848
         },
         {
           "player": "Yuki052",
           "score": 9310
         },
         {
-          "player": "Hentai",
-          "score": 975
+          "player": "Arrantball",
+          "score": 1075
         },
         {
-          "player": "Arrantball",
-          "score": 911
+          "player": "Hentai",
+          "score": 975
         },
         {
           "player": "Dler_xiaoxu",
@@ -330,10 +330,10 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 23368,
-        "average_score": 2921.0,
+        "total_score": 23696,
+        "average_score": 2962.0,
         "top_player": "总建造数",
-        "top_score": 11684
+        "top_score": 11848
       },
       "objective_info": {
         "Name": "fzsd.module.scoreboard.display.placement_count",
