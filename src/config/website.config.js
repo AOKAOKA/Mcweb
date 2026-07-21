@@ -197,7 +197,7 @@ export const websiteConfig = {
     displayAddress: "szxz.top",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.szxz.top",
-    port: "22222",
+    port: "19132",
     version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
