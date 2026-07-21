@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-22 01:31:17",
+  "export_time": "2026-07-22 04:31:23",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -41,11 +41,11 @@
         "top_score": 38
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.activation",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"活跃时间（h）\",\"color\":\"aqua\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"活跃时间（h）\",\"color\":\"aqua\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.activation"
       }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
@@ -69,11 +69,11 @@
         "top_score": 6383
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.aviating_distance",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"飞行距离\",\"color\":\"light_purple\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"飞行距离\",\"color\":\"light_purple\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.aviating_distance"
       }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
@@ -121,11 +121,11 @@
         "top_score": 3461
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.damage_taken",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"抖M榜\",\"color\":\"yellow\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"抖M榜\",\"color\":\"yellow\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.damage_taken"
       }
     },
     "fzsd.module.scoreboard.display.death_count": {
@@ -169,11 +169,11 @@
         "top_score": 49
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.death_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"死亡榜\",\"color\":\"dark_red\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"死亡榜\",\"color\":\"dark_red\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.death_count"
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
@@ -217,11 +217,11 @@
         "top_score": 12442
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.dig_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"挖掘榜\",\"color\":\"gray\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"挖掘榜\",\"color\":\"gray\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.dig_count"
       }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
@@ -236,11 +236,11 @@
         "top_score": 0
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.fishing_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"钓鱼榜\",\"color\":\"blue\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"钓鱼榜\",\"color\":\"blue\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.fishing_count"
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
@@ -284,11 +284,11 @@
         "top_score": 511
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.kill_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"击杀榜\",\"color\":\"red\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"击杀榜\",\"color\":\"red\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.kill_count"
       }
     },
     "fzsd.module.scoreboard.display.placement_count": {
@@ -297,7 +297,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 12268
+          "score": 12269
         },
         {
           "player": "Yuki052",
@@ -317,7 +317,7 @@
         },
         {
           "player": "AOKAOKA",
-          "score": 56
+          "score": 57
         },
         {
           "player": "QingYu_GeGe",
@@ -330,17 +330,17 @@
       ],
       "statistics": {
         "total_players": 8,
-        "total_score": 24536,
-        "average_score": 3067.0,
+        "total_score": 24538,
+        "average_score": 3067.25,
         "top_player": "总建造数",
-        "top_score": 12268
+        "top_score": 12269
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.placement_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"建造榜\",\"color\":\"dark_blue\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"建造榜\",\"color\":\"dark_blue\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.placement_count"
       }
     },
     "fzsd.module.scoreboard.display.trade_count": {
@@ -368,11 +368,11 @@
         "top_score": 2368
       },
       "objective_info": {
-        "Name": "fzsd.module.scoreboard.display.trade_count",
-        "RenderType": "integer",
         "CriteriaName": "dummy",
+        "DisplayName": "{\"text\":\"交易榜\",\"color\":\"dark_green\"}",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"交易榜\",\"color\":\"dark_green\"}"
+        "RenderType": "integer",
+        "Name": "fzsd.module.scoreboard.display.trade_count"
       }
     }
   },
