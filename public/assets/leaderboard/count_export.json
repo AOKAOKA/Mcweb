@@ -1,20 +1,20 @@
 {
-  "export_time": "2026-07-24 19:33:16",
+  "export_time": "2026-07-24 22:33:21",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 13,
+      "player_count": 14,
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 129
+          "score": 135
         },
         {
           "player": "Yuki052",
-          "score": 43
+          "score": 45
         },
         {
           "player": "Arrantball",
@@ -25,6 +25,10 @@
           "score": 16
         },
         {
+          "player": "qwtw0",
+          "score": 9
+        },
+        {
           "player": "zinping",
           "score": 9
         },
@@ -33,16 +37,16 @@
           "score": 8
         },
         {
-          "player": "qwtw0",
-          "score": 7
-        },
-        {
           "player": "5_ge",
           "score": 5
         },
         {
           "player": "Dler_xiaoxu",
           "score": 4
+        },
+        {
+          "player": "iiilkun",
+          "score": 2
         },
         {
           "player": "Cunming",
@@ -57,16 +61,16 @@
           "score": 1
         },
         {
-          "player": "iiilkun",
+          "player": "iilkun",
           "score": 1
         }
       ],
       "statistics": {
-        "total_players": 13,
-        "total_score": 258,
-        "average_score": 19.85,
+        "total_players": 14,
+        "total_score": 270,
+        "average_score": 19.29,
         "top_player": "总活跃时间",
-        "top_score": 129
+        "top_score": 135
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -82,7 +86,7 @@
       "player_scores": [
         {
           "player": "总飞行距离",
-          "score": 36413
+          "score": 36438
         },
         {
           "player": "Yuki052",
@@ -90,7 +94,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 6490
+          "score": 6515
         },
         {
           "player": "Arrantball",
@@ -99,10 +103,10 @@
       ],
       "statistics": {
         "total_players": 4,
-        "total_score": 72826,
-        "average_score": 18206.5,
+        "total_score": 72876,
+        "average_score": 18219.0,
         "top_player": "总飞行距离",
-        "top_score": 36413
+        "top_score": 36438
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -114,19 +118,19 @@
     },
     "fzsd.module.scoreboard.display.damage_taken": {
       "display_slot": "sidebar.team.yellow",
-      "player_count": 15,
+      "player_count": 16,
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 12749
+          "score": 13541
         },
         {
           "player": "Yuki052",
-          "score": 6249
+          "score": 6392
         },
         {
           "player": "qwtw0",
-          "score": 1880
+          "score": 2044
         },
         {
           "player": "Arrantball",
@@ -145,12 +149,16 @@
           "score": 652
         },
         {
+          "player": "iilkun",
+          "score": 370
+        },
+        {
           "player": "AOKAOKA",
           "score": 357
         },
         {
           "player": "iiilkun",
-          "score": 214
+          "score": 329
         },
         {
           "player": "Dler_xiaoxu",
@@ -178,11 +186,11 @@
         }
       ],
       "statistics": {
-        "total_players": 15,
-        "total_score": 25498,
-        "average_score": 1699.87,
+        "total_players": 16,
+        "total_score": 27082,
+        "average_score": 1692.62,
         "top_player": "总受伤害数",
-        "top_score": 12749
+        "top_score": 13541
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -194,19 +202,19 @@
     },
     "fzsd.module.scoreboard.display.death_count": {
       "display_slot": "sidebar.team.dark_red",
-      "player_count": 12,
+      "player_count": 13,
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 269
+          "score": 292
         },
         {
           "player": "Yuki052",
-          "score": 89
+          "score": 92
         },
         {
           "player": "qwtw0",
-          "score": 67
+          "score": 74
         },
         {
           "player": "zinping",
@@ -230,7 +238,11 @@
         },
         {
           "player": "iiilkun",
-          "score": 7
+          "score": 11
+        },
+        {
+          "player": "iilkun",
+          "score": 9
         },
         {
           "player": "Dler_xiaoxu",
@@ -246,11 +258,11 @@
         }
       ],
       "statistics": {
-        "total_players": 12,
-        "total_score": 538,
-        "average_score": 44.83,
+        "total_players": 13,
+        "total_score": 584,
+        "average_score": 44.92,
         "top_player": "总死亡数",
-        "top_score": 269
+        "top_score": 292
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -262,15 +274,15 @@
     },
     "fzsd.module.scoreboard.display.dig_count": {
       "display_slot": "sidebar.team.gray",
-      "player_count": 11,
+      "player_count": 12,
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 96565
+          "score": 98495
         },
         {
           "player": "Yuki052",
-          "score": 67875
+          "score": 68725
         },
         {
           "player": "Arrantball",
@@ -282,7 +294,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 3118
+          "score": 3424
         },
         {
           "player": "Hentai",
@@ -301,20 +313,24 @@
           "score": 532
         },
         {
-          "player": "QingYu_GeGe",
-          "score": 93
+          "player": "iiilkun",
+          "score": 442
         },
         {
-          "player": "iiilkun",
-          "score": 71
+          "player": "iilkun",
+          "score": 403
+        },
+        {
+          "player": "QingYu_GeGe",
+          "score": 93
         }
       ],
       "statistics": {
-        "total_players": 11,
-        "total_score": 193130,
-        "average_score": 17557.27,
+        "total_players": 12,
+        "total_score": 196990,
+        "average_score": 16415.83,
         "top_player": "总挖掘数",
-        "top_score": 96565
+        "top_score": 98495
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -358,15 +374,15 @@
     },
     "fzsd.module.scoreboard.display.kill_count": {
       "display_slot": "sidebar.team.red",
-      "player_count": 11,
+      "player_count": 12,
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 1835
+          "score": 1903
         },
         {
           "player": "Yuki052",
-          "score": 843
+          "score": 854
         },
         {
           "player": "Arrantball",
@@ -378,7 +394,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 107
+          "score": 112
         },
         {
           "player": "Dler_xiaoxu",
@@ -393,24 +409,28 @@
           "score": 54
         },
         {
+          "player": "iilkun",
+          "score": 45
+        },
+        {
           "player": "AOKAOKA",
           "score": 31
         },
         {
-          "player": "QingYu_GeGe",
-          "score": 19
+          "player": "iiilkun",
+          "score": 23
         },
         {
-          "player": "iiilkun",
-          "score": 16
+          "player": "QingYu_GeGe",
+          "score": 19
         }
       ],
       "statistics": {
-        "total_players": 11,
-        "total_score": 3670,
-        "average_score": 333.64,
+        "total_players": 12,
+        "total_score": 3806,
+        "average_score": 317.17,
         "top_player": "总击杀数",
-        "top_score": 1835
+        "top_score": 1903
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -422,15 +442,15 @@
     },
     "fzsd.module.scoreboard.display.placement_count": {
       "display_slot": "sidebar.team.dark_blue",
-      "player_count": 12,
+      "player_count": 13,
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 57974
+          "score": 58848
         },
         {
           "player": "Yuki052",
-          "score": 31039
+          "score": 31298
         },
         {
           "player": "Arrantball",
@@ -442,7 +462,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 2917
+          "score": 3297
         },
         {
           "player": "Hentai",
@@ -457,6 +477,14 @@
           "score": 282
         },
         {
+          "player": "iiilkun",
+          "score": 188
+        },
+        {
+          "player": "iilkun",
+          "score": 64
+        },
+        {
           "player": "AOKAOKA",
           "score": 57
         },
@@ -465,20 +493,16 @@
           "score": 34
         },
         {
-          "player": "iiilkun",
-          "score": 17
-        },
-        {
           "player": "XuanMBN",
           "score": 3
         }
       ],
       "statistics": {
-        "total_players": 12,
-        "total_score": 115948,
-        "average_score": 9662.33,
+        "total_players": 13,
+        "total_score": 117696,
+        "average_score": 9053.54,
         "top_player": "总建造数",
-        "top_score": 57974
+        "top_score": 58848
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -490,11 +514,11 @@
     },
     "fzsd.module.scoreboard.display.trade_count": {
       "display_slot": "sidebar.team.dark_green",
-      "player_count": 5,
+      "player_count": 7,
       "player_scores": [
         {
           "player": "总交易数",
-          "score": 4848
+          "score": 5066
         },
         {
           "player": "Yuki052",
@@ -505,20 +529,28 @@
           "score": 1605
         },
         {
+          "player": "iilkun",
+          "score": 196
+        },
+        {
           "player": "zinping",
           "score": 88
         },
         {
           "player": "qwtw0",
           "score": 22
+        },
+        {
+          "player": "iiilkun",
+          "score": 22
         }
       ],
       "statistics": {
-        "total_players": 5,
-        "total_score": 9696,
-        "average_score": 1939.2,
+        "total_players": 7,
+        "total_score": 10132,
+        "average_score": 1447.43,
         "top_player": "总交易数",
-        "top_score": 4848
+        "top_score": 5066
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -530,7 +562,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 86,
+    "total_players_across_objectives": 94,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
