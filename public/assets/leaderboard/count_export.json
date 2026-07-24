@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-25 01:33:26",
+  "export_time": "2026-07-25 04:33:32",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 138
+          "score": 140
         },
         {
           "player": "Yuki052",
-          "score": 48
+          "score": 50
         },
         {
           "player": "Arrantball",
@@ -67,10 +67,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 276,
-        "average_score": 19.71,
+        "total_score": 280,
+        "average_score": 20.0,
         "top_player": "总活跃时间",
-        "top_score": 138
+        "top_score": 140
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -122,11 +122,11 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 13680
+          "score": 13727
         },
         {
           "player": "Yuki052",
-          "score": 6531
+          "score": 6578
         },
         {
           "player": "qwtw0",
@@ -187,10 +187,10 @@
       ],
       "statistics": {
         "total_players": 16,
-        "total_score": 27360,
-        "average_score": 1710.0,
+        "total_score": 27454,
+        "average_score": 1715.88,
         "top_player": "总受伤害数",
-        "top_score": 13680
+        "top_score": 13727
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -206,11 +206,11 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 295
+          "score": 297
         },
         {
           "player": "Yuki052",
-          "score": 95
+          "score": 97
         },
         {
           "player": "qwtw0",
@@ -259,10 +259,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 590,
-        "average_score": 45.38,
+        "total_score": 594,
+        "average_score": 45.69,
         "top_player": "总死亡数",
-        "top_score": 295
+        "top_score": 297
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -273,16 +273,16 @@
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": "sidebar.team.gray",
+      "display_slot": "sidebar.team.gold",
       "player_count": 12,
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 101066
+          "score": 101159
         },
         {
           "player": "Yuki052",
-          "score": 71296
+          "score": 71389
         },
         {
           "player": "Arrantball",
@@ -327,10 +327,10 @@
       ],
       "statistics": {
         "total_players": 12,
-        "total_score": 202132,
-        "average_score": 16844.33,
+        "total_score": 202318,
+        "average_score": 16859.83,
         "top_player": "总挖掘数",
-        "top_score": 101066
+        "top_score": 101159
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -378,11 +378,11 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 1915
+          "score": 1918
         },
         {
           "player": "Yuki052",
-          "score": 866
+          "score": 869
         },
         {
           "player": "Arrantball",
@@ -427,10 +427,10 @@
       ],
       "statistics": {
         "total_players": 12,
-        "total_score": 3830,
-        "average_score": 319.17,
+        "total_score": 3836,
+        "average_score": 319.67,
         "top_player": "总击杀数",
-        "top_score": 1915
+        "top_score": 1918
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -446,11 +446,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 61563
+          "score": 61695
         },
         {
           "player": "Yuki052",
-          "score": 34013
+          "score": 34145
         },
         {
           "player": "Arrantball",
@@ -499,10 +499,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 123126,
-        "average_score": 9471.23,
+        "total_score": 123390,
+        "average_score": 9491.54,
         "top_player": "总建造数",
-        "top_score": 61563
+        "top_score": 61695
       },
       "objective_info": {
         "CriteriaName": "dummy",
