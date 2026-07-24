@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-25 04:33:32",
+  "export_time": "2026-07-25 07:33:37",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -273,7 +273,7 @@
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": "sidebar.team.gold",
+      "display_slot": "sidebar.team.gray",
       "player_count": 12,
       "player_scores": [
         {
