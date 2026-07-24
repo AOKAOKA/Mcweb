@@ -325,8 +325,8 @@ export const websiteConfig = {
         title: "服务器信息",
         icon: "information",
         items: [
-          { label: "服务器类别", value: "物理机" },
-          { label: "CPU", value: "8259CL" },
+          { label: "服务器类别", value: "游戏云" },
+          { label: "CPU", value: "9950X" },
           { label: "内存", value: "16GB DDR4" },  
           { label: "类型", value: "生存，生电，建筑" },
           { label: "最大玩家", value: "36人" },
