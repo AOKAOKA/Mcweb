@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-25 22:34:05",
+  "export_time": "2026-07-26 01:34:10",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 172
+          "score": 173
         },
         {
           "player": "Yuki052",
@@ -34,7 +34,7 @@
         },
         {
           "player": "zinping",
-          "score": 9
+          "score": 10
         },
         {
           "player": "Hentai",
@@ -75,10 +75,10 @@
       ],
       "statistics": {
         "total_players": 16,
-        "total_score": 344,
-        "average_score": 21.5,
+        "total_score": 346,
+        "average_score": 21.62,
         "top_player": "总活跃时间",
-        "top_score": 172
+        "top_score": 173
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -130,15 +130,15 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 16817
+          "score": 16991
         },
         {
           "player": "Yuki052",
-          "score": 7761
+          "score": 7815
         },
         {
           "player": "qwtw0",
-          "score": 2992
+          "score": 3000
         },
         {
           "player": "Arrantball",
@@ -146,7 +146,7 @@
         },
         {
           "player": "zinping",
-          "score": 1135
+          "score": 1247
         },
         {
           "player": "Hentai",
@@ -211,10 +211,10 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 33634,
-        "average_score": 1681.7,
+        "total_score": 33982,
+        "average_score": 1699.1,
         "top_player": "总受伤害数",
-        "top_score": 16817
+        "top_score": 16991
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -230,7 +230,7 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 355
+          "score": 356
         },
         {
           "player": "Yuki052",
@@ -242,7 +242,7 @@
         },
         {
           "player": "zinping",
-          "score": 36
+          "score": 37
         },
         {
           "player": "Arrantball",
@@ -291,10 +291,10 @@
       ],
       "statistics": {
         "total_players": 15,
-        "total_score": 710,
-        "average_score": 47.33,
+        "total_score": 712,
+        "average_score": 47.47,
         "top_player": "总死亡数",
-        "top_score": 355
+        "top_score": 356
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -310,11 +310,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 112223
+          "score": 113297
         },
         {
           "player": "Yuki052",
-          "score": 73949
+          "score": 73952
         },
         {
           "player": "Arrantball",
@@ -322,7 +322,7 @@
         },
         {
           "player": "zinping",
-          "score": 4786
+          "score": 5857
         },
         {
           "player": "qwtw0",
@@ -359,10 +359,10 @@
       ],
       "statistics": {
         "total_players": 12,
-        "total_score": 224446,
-        "average_score": 18703.83,
+        "total_score": 226594,
+        "average_score": 18882.83,
         "top_player": "总挖掘数",
-        "top_score": 112223
+        "top_score": 113297
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -410,11 +410,11 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 10427
+          "score": 10443
         },
         {
           "player": "Yuki052",
-          "score": 6666
+          "score": 6677
         },
         {
           "player": "Arrantball",
@@ -430,7 +430,7 @@
         },
         {
           "player": "zinping",
-          "score": 141
+          "score": 146
         },
         {
           "player": "Dler_xiaoxu",
@@ -463,10 +463,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 20854,
-        "average_score": 1604.15,
+        "total_score": 20886,
+        "average_score": 1606.62,
         "top_player": "总击杀数",
-        "top_score": 10427
+        "top_score": 10443
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -482,11 +482,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 104836
+          "score": 105198
         },
         {
           "player": "Yuki052",
-          "score": 67121
+          "score": 67127
         },
         {
           "player": "Arrantball",
@@ -494,11 +494,11 @@
         },
         {
           "player": "qwtw0",
-          "score": 5867
+          "score": 5869
         },
         {
           "player": "zinping",
-          "score": 3999
+          "score": 4353
         },
         {
           "player": "Hentai",
@@ -535,10 +535,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 209672,
-        "average_score": 16128.62,
+        "total_score": 210396,
+        "average_score": 16184.31,
         "top_player": "总建造数",
-        "top_score": 104836
+        "top_score": 105198
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -554,11 +554,11 @@
       "player_scores": [
         {
           "player": "总交易数",
-          "score": 6238
+          "score": 6440
         },
         {
           "player": "Yuki052",
-          "score": 3389
+          "score": 3554
         },
         {
           "player": "Arrantball",
@@ -566,7 +566,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 215
+          "score": 252
         },
         {
           "player": "iilkun",
@@ -583,10 +583,10 @@
       ],
       "statistics": {
         "total_players": 7,
-        "total_score": 12476,
-        "average_score": 1782.29,
+        "total_score": 12880,
+        "average_score": 1840.0,
         "top_player": "总交易数",
-        "top_score": 6238
+        "top_score": 6440
       },
       "objective_info": {
         "CriteriaName": "dummy",
