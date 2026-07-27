@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-27 16:35:19",
+  "export_time": "2026-07-27 19:35:25",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 236
+          "score": 240
         },
         {
           "player": "Yuki052",
-          "score": 67
+          "score": 68
         },
         {
           "player": "Arrantball",
@@ -45,16 +45,16 @@
           "score": 8
         },
         {
+          "player": "gufen",
+          "score": 6
+        },
+        {
           "player": "Penang",
           "score": 6
         },
         {
           "player": "Dler_xiaoxu",
           "score": 4
-        },
-        {
-          "player": "gufen",
-          "score": 3
         },
         {
           "player": "AOKAOKA",
@@ -95,10 +95,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 472,
-        "average_score": 22.48,
+        "total_score": 480,
+        "average_score": 22.86,
         "top_player": "总活跃时间",
-        "top_score": 236
+        "top_score": 240
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -154,11 +154,11 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 24947
+          "score": 25304
         },
         {
           "player": "Yuki052",
-          "score": 10546
+          "score": 10821
         },
         {
           "player": "qwtw0",
@@ -182,7 +182,7 @@
         },
         {
           "player": "Hentai",
-          "score": 696
+          "score": 778
         },
         {
           "player": "iilkun",
@@ -239,10 +239,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 49894,
-        "average_score": 2375.9,
+        "total_score": 50608,
+        "average_score": 2409.9,
         "top_player": "总受伤害数",
-        "top_score": 24947
+        "top_score": 25304
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -258,11 +258,11 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 469
+          "score": 475
         },
         {
           "player": "Yuki052",
-          "score": 142
+          "score": 145
         },
         {
           "player": "qwtw0",
@@ -282,7 +282,7 @@
         },
         {
           "player": "Hentai",
-          "score": 13
+          "score": 16
         },
         {
           "player": "AOKAOKA",
@@ -319,10 +319,10 @@
       ],
       "statistics": {
         "total_players": 15,
-        "total_score": 938,
-        "average_score": 62.53,
+        "total_score": 950,
+        "average_score": 63.33,
         "top_player": "总死亡数",
-        "top_score": 469
+        "top_score": 475
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -338,11 +338,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 159188
+          "score": 159467
         },
         {
           "player": "Yuki052",
-          "score": 82015
+          "score": 82294
         },
         {
           "player": "zinping",
@@ -391,10 +391,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 318376,
-        "average_score": 24490.46,
+        "total_score": 318934,
+        "average_score": 24533.38,
         "top_player": "总挖掘数",
-        "top_score": 159188
+        "top_score": 159467
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -442,7 +442,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 29116
+          "score": 30141
         },
         {
           "player": "Xiiiii",
@@ -450,7 +450,7 @@
         },
         {
           "player": "Yuki052",
-          "score": 10237
+          "score": 11262
         },
         {
           "player": "Arrantball",
@@ -495,10 +495,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 58232,
-        "average_score": 4479.38,
+        "total_score": 60282,
+        "average_score": 4637.08,
         "top_player": "总击杀数",
-        "top_score": 29116
+        "top_score": 30141
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -514,11 +514,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 131637
+          "score": 131647
         },
         {
           "player": "Yuki052",
-          "score": 68635
+          "score": 68643
         },
         {
           "player": "Arrantball",
@@ -538,7 +538,7 @@
         },
         {
           "player": "Hentai",
-          "score": 975
+          "score": 977
         },
         {
           "player": "Dler_xiaoxu",
@@ -567,10 +567,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 263274,
-        "average_score": 20251.85,
+        "total_score": 263294,
+        "average_score": 20253.38,
         "top_player": "总建造数",
-        "top_score": 131637
+        "top_score": 131647
       },
       "objective_info": {
         "CriteriaName": "dummy",
