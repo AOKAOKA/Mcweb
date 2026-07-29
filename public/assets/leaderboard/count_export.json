@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-30 01:37:06",
+  "export_time": "2026-07-30 04:37:11",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 368
+          "score": 372
         },
         {
           "player": "Yuki052",
@@ -22,7 +22,7 @@
         },
         {
           "player": "zinping",
-          "score": 43
+          "score": 44
         },
         {
           "player": "qwtw0",
@@ -69,12 +69,12 @@
           "score": 8
         },
         {
-          "player": "Hentai",
+          "player": "9119",
           "score": 8
         },
         {
-          "player": "9119",
-          "score": 5
+          "player": "Hentai",
+          "score": 8
         },
         {
           "player": "Dler_xiaoxu",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 736,
-        "average_score": 28.31,
+        "total_score": 744,
+        "average_score": 28.62,
         "top_player": "总活跃时间",
-        "top_score": 368
+        "top_score": 372
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -134,11 +134,11 @@
       "player_scores": [
         {
           "player": "总飞行距离",
-          "score": 259685
+          "score": 259742
         },
         {
           "player": "zinping",
-          "score": 119898
+          "score": 119955
         },
         {
           "player": "Yuki052",
@@ -155,10 +155,10 @@
       ],
       "statistics": {
         "total_players": 5,
-        "total_score": 519370,
-        "average_score": 103874.0,
+        "total_score": 519484,
+        "average_score": 103896.8,
         "top_player": "总飞行距离",
-        "top_score": 259685
+        "top_score": 259742
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -174,7 +174,7 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 40110
+          "score": 40111
         },
         {
           "player": "Yuki052",
@@ -186,7 +186,7 @@
         },
         {
           "player": "zinping",
-          "score": 5404
+          "score": 5405
         },
         {
           "player": "qwtw0",
@@ -267,10 +267,10 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 80220,
-        "average_score": 3487.83,
+        "total_score": 80222,
+        "average_score": 3487.91,
         "top_player": "总受伤害数",
-        "top_score": 40110
+        "top_score": 40111
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -366,7 +366,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 240739
+          "score": 240746
         },
         {
           "player": "Yuki052",
@@ -374,7 +374,7 @@
         },
         {
           "player": "zinping",
-          "score": 62230
+          "score": 62237
         },
         {
           "player": "Arrantball",
@@ -419,10 +419,10 @@
       ],
       "statistics": {
         "total_players": 13,
-        "total_score": 481478,
-        "average_score": 37036.77,
+        "total_score": 481492,
+        "average_score": 37037.85,
         "top_player": "总挖掘数",
-        "top_score": 240739
+        "top_score": 240746
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -546,7 +546,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 162433
+          "score": 162438
         },
         {
           "player": "Yuki052",
@@ -562,7 +562,7 @@
         },
         {
           "player": "zinping",
-          "score": 11468
+          "score": 11473
         },
         {
           "player": "Penang",
@@ -603,10 +603,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 324866,
-        "average_score": 23204.71,
+        "total_score": 324876,
+        "average_score": 23205.43,
         "top_player": "总建造数",
-        "top_score": 162433
+        "top_score": 162438
       },
       "objective_info": {
         "CriteriaName": "dummy",
