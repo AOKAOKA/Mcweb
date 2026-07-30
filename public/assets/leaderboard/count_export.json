@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-30 16:37:32",
+  "export_time": "2026-07-30 19:37:39",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 392
+          "score": 395
         },
         {
           "player": "Yuki052",
@@ -30,7 +30,7 @@
         },
         {
           "player": "9119",
-          "score": 20
+          "score": 23
         },
         {
           "player": "Shuasha",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 784,
-        "average_score": 30.15,
+        "total_score": 790,
+        "average_score": 30.38,
         "top_player": "总活跃时间",
-        "top_score": 392
+        "top_score": 395
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -370,7 +370,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 250688
+          "score": 250695
         },
         {
           "player": "Yuki052",
@@ -390,7 +390,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 13593
+          "score": 13600
         },
         {
           "player": "Penang",
@@ -427,10 +427,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 501376,
-        "average_score": 35812.57,
+        "total_score": 501390,
+        "average_score": 35813.57,
         "top_player": "总挖掘数",
-        "top_score": 250688
+        "top_score": 250695
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -558,7 +558,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 166843
+          "score": 166850
         },
         {
           "player": "Yuki052",
@@ -570,7 +570,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 20693
+          "score": 20700
         },
         {
           "player": "zinping",
@@ -615,10 +615,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 333686,
-        "average_score": 23834.71,
+        "total_score": 333700,
+        "average_score": 23835.71,
         "top_player": "总建造数",
-        "top_score": 166843
+        "top_score": 166850
       },
       "objective_info": {
         "CriteriaName": "dummy",
