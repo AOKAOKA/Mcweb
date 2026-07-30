@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-31 01:37:50",
+  "export_time": "2026-07-31 04:37:55",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 404
+          "score": 407
         },
         {
           "player": "Yuki052",
@@ -30,7 +30,7 @@
         },
         {
           "player": "9119",
-          "score": 29
+          "score": 32
         },
         {
           "player": "Shuasha",
@@ -115,10 +115,10 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 808,
-        "average_score": 31.08,
+        "total_score": 814,
+        "average_score": 31.31,
         "top_player": "总活跃时间",
-        "top_score": 404
+        "top_score": 407
       },
       "objective_info": {
         "CriteriaName": "dummy",
