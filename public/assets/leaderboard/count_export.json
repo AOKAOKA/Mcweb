@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-31 13:38:12",
+  "export_time": "2026-07-31 16:38:17",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 422
+          "score": 428
         },
         {
           "player": "Yuki052",
@@ -26,7 +26,7 @@
         },
         {
           "player": "9119",
-          "score": 41
+          "score": 44
         },
         {
           "player": "qwtw0",
@@ -77,12 +77,12 @@
           "score": 8
         },
         {
-          "player": "Dler_xiaoxu",
-          "score": 4
+          "player": "Qiany",
+          "score": 6
         },
         {
-          "player": "Qiany",
-          "score": 3
+          "player": "Dler_xiaoxu",
+          "score": 4
         },
         {
           "player": "917813",
@@ -119,10 +119,10 @@
       ],
       "statistics": {
         "total_players": 27,
-        "total_score": 844,
-        "average_score": 31.26,
+        "total_score": 856,
+        "average_score": 31.7,
         "top_player": "总活跃时间",
-        "top_score": 422
+        "top_score": 428
       },
       "objective_info": {
         "CriteriaName": "dummy",
