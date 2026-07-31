@@ -1,16 +1,16 @@
 {
-  "export_time": "2026-07-31 10:38:07",
+  "export_time": "2026-07-31 13:38:12",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 26,
+      "player_count": 27,
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 416
+          "score": 422
         },
         {
           "player": "Yuki052",
@@ -26,7 +26,7 @@
         },
         {
           "player": "9119",
-          "score": 38
+          "score": 41
         },
         {
           "player": "qwtw0",
@@ -81,6 +81,10 @@
           "score": 4
         },
         {
+          "player": "Qiany",
+          "score": 3
+        },
+        {
           "player": "917813",
           "score": 3
         },
@@ -114,11 +118,11 @@
         }
       ],
       "statistics": {
-        "total_players": 26,
-        "total_score": 832,
-        "average_score": 32.0,
+        "total_players": 27,
+        "total_score": 844,
+        "average_score": 31.26,
         "top_player": "总活跃时间",
-        "top_score": 416
+        "top_score": 422
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -134,7 +138,7 @@
       "player_scores": [
         {
           "player": "总飞行距离",
-          "score": 325090
+          "score": 325095
         },
         {
           "player": "zinping",
@@ -142,7 +146,7 @@
         },
         {
           "player": "Yuki052",
-          "score": 113917
+          "score": 113922
         },
         {
           "player": "qwtw0",
@@ -155,10 +159,10 @@
       ],
       "statistics": {
         "total_players": 5,
-        "total_score": 650180,
-        "average_score": 130036.0,
+        "total_score": 650190,
+        "average_score": 130038.0,
         "top_player": "总飞行距离",
-        "top_score": 325090
+        "top_score": 325095
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -370,7 +374,7 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 271534
+          "score": 271535
         },
         {
           "player": "Yuki052",
@@ -382,7 +386,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 27102
+          "score": 27103
         },
         {
           "player": "Xiiiii",
@@ -427,10 +431,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 543068,
-        "average_score": 38790.57,
+        "total_score": 543070,
+        "average_score": 38790.71,
         "top_player": "总挖掘数",
-        "top_score": 271534
+        "top_score": 271535
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -558,7 +562,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 168236
+          "score": 168241
         },
         {
           "player": "Yuki052",
@@ -566,7 +570,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 44104
+          "score": 44109
         },
         {
           "player": "qwtw0",
@@ -615,10 +619,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 336472,
-        "average_score": 24033.71,
+        "total_score": 336482,
+        "average_score": 24034.43,
         "top_player": "总建造数",
-        "top_score": 168236
+        "top_score": 168241
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -678,7 +682,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 123,
+    "total_players_across_objectives": 124,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
