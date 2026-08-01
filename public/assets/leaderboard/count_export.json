@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-08-01 22:39:14",
+  "export_time": "2026-08-02 01:39:19",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -602,7 +602,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 174377
+          "score": 174381
         },
         {
           "player": "Yuki052",
@@ -614,7 +614,7 @@
         },
         {
           "player": "qwtw0",
-          "score": 21664
+          "score": 21668
         },
         {
           "player": "zinping",
@@ -659,10 +659,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 348754,
-        "average_score": 24911.0,
+        "total_score": 348762,
+        "average_score": 24911.57,
         "top_player": "总建造数",
-        "top_score": 174377
+        "top_score": 174381
       },
       "objective_info": {
         "CriteriaName": "dummy",
