@@ -1,16 +1,16 @@
 {
-  "export_time": "2026-08-01 13:38:55",
+  "export_time": "2026-08-01 16:39:02",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 32,
+      "player_count": 33,
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 489
+          "score": 509
         },
         {
           "player": "Yuki052",
@@ -18,11 +18,11 @@
         },
         {
           "player": "9119",
-          "score": 65
+          "score": 68
         },
         {
           "player": "Arrantball",
-          "score": 57
+          "score": 58
         },
         {
           "player": "zinping",
@@ -81,35 +81,35 @@
           "score": 8
         },
         {
-          "player": "Dler_xiaoxu",
-          "score": 4
-        },
-        {
           "player": "zhaoze",
-          "score": 3
+          "score": 6
         },
         {
           "player": "222",
-          "score": 3
+          "score": 6
+        },
+        {
+          "player": "1111",
+          "score": 6
+        },
+        {
+          "player": "guaji",
+          "score": 6
+        },
+        {
+          "player": "guaji1",
+          "score": 5
+        },
+        {
+          "player": "Dler_xiaoxu",
+          "score": 4
         },
         {
           "player": "917813",
           "score": 3
         },
         {
-          "player": "1111",
-          "score": 3
-        },
-        {
-          "player": "guaji",
-          "score": 3
-        },
-        {
           "player": "AOKAOKA",
-          "score": 2
-        },
-        {
-          "player": "guaji1",
           "score": 2
         },
         {
@@ -133,16 +133,20 @@
           "score": 1
         },
         {
+          "player": "guaji2",
+          "score": 1
+        },
+        {
           "player": "hsds",
           "score": 1
         }
       ],
       "statistics": {
-        "total_players": 32,
-        "total_score": 978,
-        "average_score": 30.56,
+        "total_players": 33,
+        "total_score": 1018,
+        "average_score": 30.85,
         "top_player": "总活跃时间",
-        "top_score": 489
+        "top_score": 509
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -590,7 +594,7 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 171358
+          "score": 171818
         },
         {
           "player": "Yuki052",
@@ -598,7 +602,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 46784
+          "score": 47244
         },
         {
           "player": "qwtw0",
@@ -647,10 +651,10 @@
       ],
       "statistics": {
         "total_players": 14,
-        "total_score": 342716,
-        "average_score": 24479.71,
+        "total_score": 343636,
+        "average_score": 24545.43,
         "top_player": "总建造数",
-        "top_score": 171358
+        "top_score": 171818
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -710,7 +714,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 131,
+    "total_players_across_objectives": 132,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
