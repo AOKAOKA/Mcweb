@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-08-02 10:39:34",
+  "export_time": "2026-08-02 13:39:39",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -161,7 +161,7 @@
       }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
-      "display_slot": "sidebar.team.gold",
+      "display_slot": "sidebar.team.light_purple",
       "player_count": 5,
       "player_scores": [
         {
@@ -598,11 +598,11 @@
     },
     "fzsd.module.scoreboard.display.placement_count": {
       "display_slot": "sidebar.team.dark_blue",
-      "player_count": 14,
+      "player_count": 15,
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 175156
+          "score": 176129
         },
         {
           "player": "Yuki052",
@@ -610,7 +610,7 @@
         },
         {
           "player": "Arrantball",
-          "score": 49652
+          "score": 50575
         },
         {
           "player": "qwtw0",
@@ -645,6 +645,10 @@
           "score": 57
         },
         {
+          "player": "111",
+          "score": 50
+        },
+        {
           "player": "QingYu_GeGe",
           "score": 34
         },
@@ -658,11 +662,11 @@
         }
       ],
       "statistics": {
-        "total_players": 14,
-        "total_score": 350312,
-        "average_score": 25022.29,
+        "total_players": 15,
+        "total_score": 352258,
+        "average_score": 23483.87,
         "top_player": "总建造数",
-        "top_score": 175156
+        "top_score": 176129
       },
       "objective_info": {
         "CriteriaName": "dummy",
@@ -722,7 +726,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 134,
+    "total_players_across_objectives": 135,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
