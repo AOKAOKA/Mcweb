@@ -206,7 +206,7 @@ export const websiteConfig = {
   footer: {
     copyright: "© 2023-2026 笙竹小栈保留所有权利.",
     customHtml: `
-      <!-- 在这里插入自定义HTML代码，比如备案信息 -->
+      <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
     `
   },
 
