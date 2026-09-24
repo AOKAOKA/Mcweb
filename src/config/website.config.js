@@ -2,8 +2,8 @@
 export const websiteConfig = {
   // 网站基本信息
   site: {
-    title: "笙竹小镇",
-    description: "欢迎来到笙竹小镇，休闲氛围，让你轻松游戏无压力。",
+    title: "笙竹小栈",
+    description: "欢迎来到笙竹小栈，休闲氛围，让你轻松游戏无压力。",
     keywords: "Minecraft,服务器,我的世界,Java版,生存,生电,整合包",
     author: "奥梁",
     language: "zh-CN"
@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 笙竹小镇", "Welcome to SZXZ"], // 多语言标题数组
+            texts: ["欢迎来到 笙竹小栈", "Welcome to SZXZ"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "https://szxz.top/", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["笙竹小镇服历程", "SZXZ History"],
+            texts: ["笙竹小栈服历程", "SZXZ History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -204,7 +204,7 @@ export const websiteConfig = {
 
   // 页脚配置
   footer: {
-    copyright: "© 2023-2026 笙竹小镇保留所有权利.",
+    copyright: "© 2023-2026 笙竹小栈保留所有权利.",
     customHtml: `
       <!-- 在这里插入自定义HTML代码，比如备案信息 -->
     `
