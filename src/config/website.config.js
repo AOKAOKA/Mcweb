@@ -206,7 +206,7 @@ export const websiteConfig = {
   footer: {
     copyright: "© 2023-2026 笙竹小栈保留所有权利.",
     customHtml: `
-      <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank">琼ICP备2025067680号-2</a>
     `
   },
 
