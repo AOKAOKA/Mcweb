@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 笙竹小栈", "Welcome to SZXZ"], // 多语言标题数组
+            texts: ["欢迎来到 笙竹小栈", "Welcome to 笙竹小栈"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "https://szxz.top/", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["笙竹小栈服历程", "SZXZ History"],
+            texts: ["笙竹小栈服历程", "笙竹小栈 History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -109,7 +109,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["关于服务器", "About SZXZerver"],
+            texts: ["关于服务器", "About 笙竹小栈erver"],
             typewriter: {
               enabled: true,
               speed: 100,
