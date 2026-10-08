@@ -207,7 +207,7 @@ export const websiteConfig = {
     copyright: "© 2023-2026 笙竹小栈保留所有权利.",
     customHtml: `
       <a href="https://beian.miit.gov.cn/" target="_blank">琼ICP备2025067680号-2</a>
-      <link rel="icon" href="https://r2.aokaoka.top/i/2026/09/28/925438.png"> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=46020002000538" rel="noreferrer" target="_blank">琼公网安备46020002000538号</a>
+      <a href="https://beian.mps.gov.cn/#/query/webSearch?code=46020002000538" rel="noreferrer" target="_blank">琼公网安备46020002000538号</a>
     `
   },
 
